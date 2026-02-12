@@ -1,4 +1,4 @@
-# IoT RFID Tap-to-Pay System - Team Shield
+# SmartPay System
 
 A complete RFID-based payment system with real-time card management, transaction tracking, and a modern dashboard interface.
 
@@ -45,3 +45,4 @@ A complete RFID-based payment system with real-time card management, transaction
 ## 📄 License
 
 MIT
+
